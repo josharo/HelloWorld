@@ -23,5 +23,6 @@ public class HelloWorld {
         
         var i = 0;
         var j = 7;
+        var k = 10;
     }
 }
