@@ -22,5 +22,6 @@ public class HelloWorld {
         System.out.println("last");
         
         var i = 0;
+        var j = 7;
     }
 }
