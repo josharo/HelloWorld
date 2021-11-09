@@ -24,6 +24,5 @@ public class HelloWorld {
         var i = 12;
         var j = 7;
         var k = 18;
-        ti = 0;
     }
 }
