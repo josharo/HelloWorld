@@ -21,8 +21,8 @@ public class HelloWorld {
         }
         System.out.println("last");
         
-        var i = 0;
+        var i = 10;
         var j = 7;
-        var k = 10;
+        var k = 15;
     }
 }
