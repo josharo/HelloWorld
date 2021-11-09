@@ -20,5 +20,7 @@ public class HelloWorld {
             System.out.println("i = " + i);
         }
         System.out.println("last");
+        
+        var i = 0;
     }
 }
